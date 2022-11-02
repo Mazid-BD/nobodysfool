@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+/* Deafault - Section */
+.container{
+    width: 1500px !important;
+    height: 0 auto;
+}
+.default-title{
+    text-align: center;
+    color: #fff;
+}
+li{
+    list-style: none;
+}
+a{
+    text-decoration: none;
+}
+.pt-60{
+    padding-top: 60px;
+}
+
+/* Body Style */
+body{
+    background-color: #f1f1f1;
+}
+/* Styleing Starts Here */
+.header-controls{
+    display: flex;
+    justify-content: space-between;
+}
+.top-nav-link ul li{
+    display: inline-block;
+}
+.top-social-link{
+    display: inline-block;
+}
+/* navigation style */
+.nav-controls ul li{
+    display: inline-block;
+}
+/* header-section */
+.header-controls{
+    display: flex;
+    justify-content: space-between;
+    padding-left: 0px !important;
+}
